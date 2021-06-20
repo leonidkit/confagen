@@ -1,0 +1,12 @@
+app:
+  port: 8888
+  log_level: debug
+  read_timeout: 0.2s
+  write_timeout: 0.2s
+
+other:
+  tick: 1m
+  api:
+    name: api
+    url: https://localhost
+  url: https://localhost
