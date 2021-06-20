@@ -4,8 +4,6 @@ It is enough to specify the name of the source file and the file to be generated
 
 ### Install
 ```
-go get -u github.com/pkg/errors
-go get -u github.com/spf13/viper
 go get -u github.com/leonidkit/confagen
 ```
 This will install the `confagen` binary to your $GOPATH/bin directory.
